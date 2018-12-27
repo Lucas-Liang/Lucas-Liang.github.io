@@ -5,8 +5,27 @@
     
     <entry>
       <title>用来测试的一篇文章</title>
-      <link href="/2018/12/26/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%A5%A8%E6%96%87%E7%AB%A0/"/>
-      <url>/2018/12/26/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%A5%A8%E6%96%87%E7%AB%A0/</url>
+      <link href="/2018/12/27/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E7%94%A8%E4%BA%8E%E6%B5%8B%E8%AF%95%E7%9A%84%E6%96%87%E7%AB%A0/"/>
+      <url>/2018/12/27/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E7%94%A8%E4%BA%8E%E6%B5%8B%E8%AF%95%E7%9A%84%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<p>#测试用的文章，可以随便测试！<br>测试用的文章，可以随便测试！<br>测试用的文章，可以随便测试！<br>测试用的文章，可以随便测试！</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> tests </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>用来测试的一篇文章</title>
+      <link href="/2018/12/26/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2018/12/26/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
         <content type="html"><![CDATA[<p>//info<br>欢迎来到我博客(<a href="https://lucas-liang.github.io/)" target="_blank" rel="noopener">https://lucas-liang.github.io/)</a>! </p><p>本来很久之前就打算开始建立的属于自己的博客网站,但是没想到到现在才建立好。虽然用的github来建立的博客，但是我的个人博客正在后台慢慢德邦写，莫法，只有我一个人来写博客界面 Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>]]></content>
       
